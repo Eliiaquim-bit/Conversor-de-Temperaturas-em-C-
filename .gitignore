@@ -1,0 +1,26 @@
+# Arquivos executáveis
+*.exe
+*.out
+*.o
+*.obj
+
+# Arquivos de compilação
+*.class
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.swp
+*~
+
+# Configurações de editores
+.vscode/
+.idea/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de depuração
+*.stackdump
+core
